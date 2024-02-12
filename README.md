@@ -1,1 +1,3 @@
-# wordle_cosc4353
+# Wordle Game
+
+## Spring 2024 COSC Software Design
